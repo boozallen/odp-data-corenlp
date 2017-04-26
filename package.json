@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "config": {
+    "docker": {
+      "imageName": "boozallen/odp-data-corenlp"
+    }
+  },
+  "scripts": {
+    "docker-deploy": "docker-deploy"
+  }
+}
